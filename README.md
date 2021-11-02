@@ -1,4 +1,4 @@
-#Basic-Blog-page
+# Basic-Blog-page
 
 <li>A Blog page template was created in order to learn about the making of a Blog page./li>
 <!--<li>I created a Single page portfolio which contains all the proffesional information of the user. It was futher used by some of my friends to create their portfolio's.</li>
